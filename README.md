@@ -61,7 +61,7 @@ The weight change level was randomly sampled and used for training, so it provid
 
 ## Implementation
 
-We provide [colab tutorial](Weight-Change-Prediction/Weight_Change_Prediction_for_Automated_Depression_Diagnosis), and full guidance. There are also tutorials for training the model, extracting features from landmarks, and visualization for 3D Face Landmark.
+We provide [colab tutorial](https://colab.research.google.com/drive/15Tuyp9qlGEwMaVemglWTclP_NSdjY3Fy?usp=sharing), and full guidance. There are also tutorials for training the model, extracting features from landmarks, and visualization for 3D Face Landmark. (you can check the colab tutorial code in [ipynb file](Weight_Change_Prediction_for_Automated_Depression_Diagnosis))
 
 
 Set the data directory and pretrained model path –
