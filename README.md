@@ -23,7 +23,7 @@ Synthetic data are processed into five stages for weight change.
 - level_5 : Excessive Weight Gain
 
 ```python
-./ICCAS_2021/
+./Weight-Change-Prediction/
 ├── Synthetic_Dataset/
 │   ├── 001_1_landmark.json # person ID 001's level(1 & 3) landmark
 │   ├── 001_2_landmark.json # person ID 001's level(2 & 3) landmark
@@ -66,7 +66,7 @@ We provide [colab tutorial](https://colab.research.google.com/drive/15Tuyp9qlGEw
 
 Set the data directory and pretrained model path –
 ```python
-DATA_DIR = "/ICCAS_2021" # Data Directory
+DATA_DIR = "/Weight-Change-Prediction" # Data Directory
 load_model = None # if you want to use pretrained model, insert the .pkl file path
 ```
 
